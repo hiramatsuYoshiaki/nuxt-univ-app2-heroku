@@ -8,6 +8,10 @@
       <h2 class="subtitle">
         nuxt universal SSR HEROKU EXPRESS
       </h2>
+      <h2 class="subtitle">
+        update:2019-05-10 13:08
+      </h2>
+
       <div class="links">
         <a href="https://nuxtjs.org/" target="_blank" class="button--green"
           >Documentation</a
