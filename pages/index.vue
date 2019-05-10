@@ -11,9 +11,12 @@
       <h2 class="subtitle">
         Heroku pipeline test 
       </h2>
-      <p class="subtitle">
-        github:master --- dev
-      </p>
+      <p class="subtitle">Heroku へデプロイ </p>
+      <p class="subtitle">Heroku dashborad Config Vars --- NPM_CONFIG_PRODUCTION:false </p>
+      <p class="subtitle">Heroku dashborad Config Vars --- HOST:0.0.0.0 </p>
+      <p class="subtitle">Heroku dashborad Config Vars --- NODE_ENV:production </p>
+      <p class="subtitle">pakage.json ---  heroku-postbuild: npm run build </p>
+      <p class="subtitle">Procfile ---  web: nuxt start </p>
       <p class="subtitle">
         update:2019-05-10 13:30
       </p>
