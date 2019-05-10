@@ -9,8 +9,14 @@
         nuxt universal SSR HEROKU EXPRESS
       </h2>
       <h2 class="subtitle">
-        update:2019-05-10 13:08
+        Heroku pipeline test 
       </h2>
+      <p class="subtitle">
+        github:master --- dev
+      </p>
+      <p class="subtitle">
+        update:2019-05-10 13:30
+      </p>
 
       <div class="links">
         <a href="https://nuxtjs.org/" target="_blank" class="button--green"
